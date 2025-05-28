@@ -1,0 +1,194 @@
+{
+  "extensionName": {
+    "message": "IGPlus - Instagram reels ve keşfeti gizle!"
+  },
+  "extensionDescription": {
+    "message": "2025 • Açık Kaynak • Instagram shorts, videolar, yorumlar, öneriler duvarı, beğeniler, öneriler... ve daha fazlasını devre dışı bırakın."
+  },
+  "disabled": {
+    "message": "IGPlus'ı devre dışı bıraktınız."
+  },
+  "header_title": {
+    "message": "IGPlus Eklentisi"
+  },
+  "header_subtitle": {
+    "message": "Daha az dikkat dağınıklığı, daha fazla odaklanma."
+  },
+  "btn_donate": {
+    "message": "Bağış Yap"
+  },
+  "btn_support": {
+    "message": "Destek al"
+  },
+  "btn_reqfeature": {
+    "message": "Özellik Talep Et"
+  },
+  "btn_goback": {
+    "message": "Geri dön"
+  },
+  "menu_main": {
+    "message": "Ana Özellikler:"
+  },
+  "menu_sec": {
+    "message": "Ek Özellikler:"
+  },
+  "menu_palette": {
+    "message": "Renk Paleti / Yazı Tipi:"
+  },
+  "n_default": {
+    "message": "Varsayılan"
+  },
+  "mi_1": {
+    "message": "\"Odak Modu\"nu etkinleştir."
+  },
+  "mi_2": {
+    "message": "Reels sayfası ve Reels videolarını devre dışı bırak"
+  },
+  "mi_3": {
+    "message": "Keşfet sayfasını devre dışı bırak."
+  },
+  "mi_4": {
+    "message": "Ana Sayfada Hikayeleri devre dışı bırak."
+  },
+  "mi_5": {
+    "message": "Hikayeleri her yerde devre dışı bırak."
+  },
+  "mi_6": {
+    "message": "\"Yeni Mesajlar\" etiketini gri yap"
+  },
+  "mi_7": {
+    "message": "\"Yeni Mesajlar\" etiketini devre dışı bırak."
+  },
+  "mi_8": {
+    "message": "Ana Sayfada önerilenleri kaldır."
+  },
+  "mi_9": {
+    "message": "Akışı devre dışı bırak. (deneysel)"
+  },
+  "mi_10": {
+    "message": "Renk Paleti / Yazı Tipi:"
+  },
+  "mi_11": {
+    "message": "Beğenileri ve takipçi sayılarını (gösteriş ölçütleri) devre dışı bırak."
+  },
+  "mi_12": {
+    "message": "Gri tonlama modunu etkinleştir (deneysel)"
+  },
+  "mi_13": {
+    "message": "Her şeyi kare şeklinde yap."
+  },
+  "mi_14": {
+    "message": "Trafik kullanımını azaltmak için tüm videoları engelle."
+  },
+  "mi_15": {
+    "message": "Trafik kullanımını azaltmak için tüm resimleri engelle."
+  },
+  "fonts_title": {
+    "message": "Yazı Tipi seç:"
+  },
+  "themes_title": {
+    "message": "Tema seç:"
+  },
+  "themes_label": {
+    "message": "YENİ"
+  },
+  "themes_msg": {
+    "message": "YENİ Seçenekler v1.1.9"
+  },
+  "theme_1": {
+    "message": "Varsayılan (Koyu Yeşil)"
+  },
+  "theme_2": {
+    "message": "Açık Yeşil"
+  },
+  "theme_3": {
+    "message": "Koyu Mor"
+  },
+  "theme_4": {
+    "message": "Koyu Pembe"
+  },
+  "theme_5": {
+    "message": "Açık Mor"
+  },
+  "theme_6": {
+    "message": "Koyu Mavi"
+  },
+  "theme_7": {
+    "message": "Koyu Kırmızı"
+  },
+  "theme_8": {
+    "message": "Koyu Sarı"
+  },
+  "d_title": {
+    "message": "IGPlus'ın faaliyetlerini sürdürmesini bağışlar sağlıyor."
+  },
+  "d_subtitle": {
+    "message": "Her hafta saatlerce hataları düzeltmek, özellikler eklemek ve iyileştirmek, kullanıcı geri bildirimlerini ele almakla geçiriyorum. Sizin desteğiniz, devamlılık için çok önemli."
+  },
+  "d_pp": {
+    "message": "Paypal ile bağış yap."
+  },
+  "d_kofi": {
+    "message": "Ko-Fi.com ile destekle."
+  },
+  "d_card": {
+    "message": "Kart ile bağış yap."
+  },
+  "d_cred__1": {
+    "message": "Ayrıca IGPlus'ı arkadaşlarınızla paylaşabilir veya bir inceleme bırakabilirsiniz."
+  },
+  "d_cred__2": {
+    "message": ""
+  },
+  "d_cred__3": {
+    "message": "Teşekkürler."
+  },
+  "s_title": {
+    "message": "IGPlus ile sorun mu yaşıyorsunuz?"
+  },
+  "s_subtitle": {
+    "message": "İşte deneyebileceğiniz bazı sorun giderme adımları:"
+  },
+  "s_res__1": {
+    "message": "Instagram sayfasını yenile."
+  },
+  "s_res__2": {
+    "message": "IGPlus'ı devre dışı bırak ve ardından tekrar etkinleştir."
+  },
+  "s_res__3": {
+    "message": "Diğer tüm uzantıları devre dışı bırak."
+  },
+  "s_res__4": {
+    "message": "IGPlus'ı kaldır ve yeniden yükle."
+  },
+  "s_res__5": {
+    "message": "Tarayıcı önbelleğini temizle."
+  },
+  "s_emailme": {
+    "message": "Sorun hala devam ediyorsa, lütfen bana e-posta gönder."
+  },
+  "s_effic": {
+    "message": "Size daha verimli bir şekilde yardımcı olabilmem için lütfen şu bilgileri ekle:"
+  },
+  "s_detail__1": {
+    "message": "Kullandığınız IGPlus sürümü."
+  },
+  "s_detail__2": {
+    "message": "Sorunu gösteren bir ekran görüntüsü veya video."
+  },
+  "s_detail__3": {
+    "message": "Sorunun ayrıntılı açıklaması."
+  },
+  "s_detail__4": {
+    "message": "Tarayıcınız ve sürümü (örneğin, Firefox 86.0)."
+  },
+  "mi_16": {
+    "message": "Ana sayfadan Doğrudan'a gidin."
+  },
+  "mi_17": {
+    "message": "Yorumları devre dışı bırak (deneysel)"
+  },
+  "mi_18": {
+    "message": "Threads butonunu gizle."
+  }
+}
